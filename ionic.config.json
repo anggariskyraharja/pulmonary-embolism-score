@@ -1,0 +1,8 @@
+{
+  "name": "pulmonary-embolism-score",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "0b48b144"
+}
